@@ -77,7 +77,7 @@ Once the Mandatee download the signed Credential you can see the updated and fin
 The issuance of a Valid LEAR Credential Employee is now completed.
 
 
-### Troubleshooting: Expired Credential Offer
+## Troubleshooting: Expired Credential Offer
 From the moment of the creation of a new Credential the link for the Mandatee to download the Credential have a lifespan of 10 minutes.
 If the Mandatee didn't download the Credential in that time or fails to do it there is an option to send a fresh e-mail notification to the Mandatee with the instruction and a new functional link to start the process.
 To do so click on the status of the Credential to access its details
