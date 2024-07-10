@@ -1,10 +1,9 @@
 # Credential Issuer User Guide
 
 ## Login into the Credential Issuer
-To begin the process of obtaining your Demo LEAR Credential, please create a ticket on [ticketing system](https://ticketing.dome-marketplace-dev.org/) with the required information listed below. This will help us create your credential efficiently. Note that the Mandator data can be extracted from your organization's EIDAS digital certificate.
 
 ### Step 1: Access the Credential Issuer
-Visit the Dome Marketplace by clicking on the following link: [DOME Marketplace](https://dome-marketplace-dev.org).
+Visit the Dome Marketplace by clicking on the following link: [Credential Issuer](https://dome-marketplace-dev.org).
 
 ![Credential Issuer Access](./assets/01.png)
 
@@ -22,13 +21,13 @@ You will enter the issued credentials list view:
 ![Credential Issuer Credentials List](./assets/04.png)
 
 ## Issuance of LEAR Credential Employee with a Signer Account
-Complete process of issuing a new LEAR Credential Employee 
+Complete process of issuing a new LEAR Credential Employee. As a Signer account you can issue Credential on behalf of a Mandator that don't have available a Digital Certificate for the signature.
 ### Step 1: New Credential Form
 To create a Verifiable Credential and signed it as IN2, click the "admincredential" button, which will take you to the creation form.
 
 ![Credential Issuer New Credential Form](./assets/05.png)
 
-Fill in the details for the Mandatee and the Mandator (the current account will be the Signer)
+Fill in the details for the Mandatee and the Mandator (the current account will be only the Signer of the Credential)
 
 ![Credential Issuer New Credential Form](./assets/06.png)
 
@@ -91,5 +90,5 @@ The Mandatee will receive the new email notification to start de process again
 
 ![Credential Issuer Mandatee E-mail Notification](./assets/10.png)
 
-NOTICE: This solution is for the expiration of the link in the email notification. If the Mandatee gets to open the QR code and don't get to complete the process you need to contact support.
+NOTICE: This solution is for the expiration of the link in the email notification. If the Mandatee gets to open the QR code and don't get to complete the process you need to contact support. Please create a ticket on [ticketing system](https://ticketing.dome-marketplace-dev.org/)
 
