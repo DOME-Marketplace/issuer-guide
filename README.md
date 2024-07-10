@@ -3,7 +3,7 @@
 ## Login into the Credential Issuer
 
 ### Step 1: Access the Credential Issuer
-Visit the Dome Marketplace by clicking on the following link: [Credential Issuer](https://issuer.dome-marketplace-dev.org).
+Visit the DOME Issuer by clicking on the following link: [DOME Issuer](https://issuer.dome-marketplace-dev.org).
 
 ![Credential Issuer Access](./assets/01.png)
 
