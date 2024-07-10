@@ -23,7 +23,7 @@ You will enter the issued credentials list view:
 ## Issuance of LEAR Credential Employee with a Signer Account
 Complete process of issuing a new LEAR Credential Employee. As a Signer account you will issue Credentials on behalf of a Mandator that don't have available a Digital Certificate for the signature.
 ### Step 1: New Credential Form
-To create a Verifiable Credential and signed it as IN2, click the "**admincredential**" button, which will take you to the creation form.
+To create a Verifiable Credential, click the "**New credential as Signer**" button, which will take you to the creation form.
 
 ![Credential Issuer New Credential Form](./assets/05.png)
 
