@@ -92,5 +92,5 @@ The Mandatee will receive the new email notification to start de process again
 
 ![Credential Issuer Mandatee E-mail Notification](./assets/10.png)
 
-NOTICE: This solution is for the expiration of the link in the email notification. If the Mandatee gets to open the QR code and don't get to complete the process you need to contact support. Please create a ticket on [ticketing system](https://ticketing.dome-marketplace-dev.org/)
+For any other issues you can contact the technical support team by creating a ticket on [ticketing system](https://ticketing.dome-marketplace-dev.org/)
 
