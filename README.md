@@ -6,7 +6,7 @@ The Credential Issuer is a crucial element in the onboarding process for new use
 ## 1. Login into the Credential Issuer
 
 - **Access the Credential Issuer**
-    - Visit the DOME Issuer by clicking on the following link: [DOME Issuer](https://issuer.dome-marketplace-dev.org).
+    - Visit the DOME Issuer by clicking on the following link: [DOME Issuer](https://issuer.dome-marketplace-prd.org).
       
       ![Credential Issuer Access](./assets/01.png)
 
@@ -107,5 +107,5 @@ To do so click on the status of the Credential to access its details
       
     ![Credential Issuer Credential Subject E-mail Notification](./assets/10.png)
 
-For any other issues you can contact the technical support team by creating a ticket on [ticketing system](https://ticketing.dome-marketplace-dev.org/)
+For any other issues you can contact the technical support team by creating a ticket on [ticketing system](https://ticketing.dome-marketplace.org/)
 
