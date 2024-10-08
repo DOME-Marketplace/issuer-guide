@@ -54,7 +54,7 @@ The Credential Issuer is a crucial element in the onboarding process for new use
 ## 3. Credential Subject actions
 - **Credential Subject Email notification**
   - At this point the Credential Subject will receive an e-mail notification with the instructions and the link to download the Credential to his/her Wallet.
-  This link will be available for 10 minutes
+  This link will be available for 72 hours
       
       ![Credential Issuer Credential Subject E-mail Notification](./assets/10.png)
       
@@ -93,7 +93,7 @@ The Credential Issuer is a crucial element in the onboarding process for new use
 
 
 ## Troubleshooting: Expired Credential Offer
-- From the moment of the creation of a new Credential the link for the Credential Subject to download the Credential have a lifespan of 10 minutes.
+- From the moment of the creation of a new Credential the link for the Credential Subject to download the Credential have a lifespan of 72 hours.
 If the Credential Subject didn't download the Credential in that time or fails to do it there is an option to send a fresh e-mail notification to the Credential Subject with the instruction and a new functional link to start the process.
 To do so click on the status of the Credential to access its details
       
