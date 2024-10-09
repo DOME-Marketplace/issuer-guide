@@ -73,9 +73,9 @@ The Credential Issuer is a crucial element in the onboarding process for new use
       ![Credential Issuer New Credential Form](./assets/08.png)
 
 - **See Result**
-  - **We will see that the Credential we just created have a status of **PEND_DOWNLOAD****
+    - **We will see that the Credential we just created have a status of **WITHDRAWN****
 
-    ![Credential Issuer Sign](./assets/16.png)
+      ![Credential Issuer Credentials List](./assets/09.png)
 
 ## 3. Credential Subject actions
 - **Credential Subject Email notification**
