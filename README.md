@@ -32,7 +32,7 @@ The Credential Issuer is a crucial element in the onboarding process for new use
       ![Credential Issuer New Credential Form](./assets/05-b.png)
 
 - **Complete the New Credential Form**
-    - Fill in the details (the current account will be only the Signer of the Credential)
+    - Fill in the details
 
       ![Credential Issuer New Credential Form](./assets/06-b.png)
 
