@@ -25,9 +25,35 @@ The Credential Issuer is a crucial element in the onboarding process for new use
       
       ![Credential Issuer Credentials List](./assets/04.png)
 
-## 2. Issuance of a Credential with a Signer Account
+## 2-a. Issuance of a Credential
 - **New Credential Form**
-    - To create a Verifiable Credential, click the "**New credential as Signer**" button, which will take you to the creation form.
+    - To create a Verifiable Credential, click the "**New credential**" button, which will take you to the creation form.
+
+      ![Credential Issuer New Credential Form](./assets/05-b.png)
+
+- **Complete the New Credential Form**
+    - Fill in the details (the current account will be only the Signer of the Credential)
+
+      ![Credential Issuer New Credential Form](./assets/06-b.png)
+
+- **Adding Powers to the Credential Subject**
+    - You can add different powers in the last portion of the form using the combo box
+
+      ![Credential Issuer New Credential Form](./assets/07.png)
+
+- **Create Credential**
+    - Once complete click on "**Create Credential**" button. Go back to the list of Credentials by clicking the Dome Issuer logo in the upper left corner
+
+      ![Credential Issuer New Credential Form](./assets/08.png)
+
+- **See Result**
+    - **We will see that the Credential we just created have a status of **WITHDRAWN****
+
+      ![Credential Issuer Credentials List](./assets/09.png)
+
+## 2-b. Issuance of a Credential with a Signer Account
+- **New Credential Form**
+    - To create a Verifiable Credential as Signer, click the "**New credential as Signer**" button, which will take you to the creation form.
       
       ![Credential Issuer New Credential Form](./assets/05.png)
 
